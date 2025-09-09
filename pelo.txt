@@ -1,7 +1,7 @@
 Pelo:
 
-Castaño
-Pelirojo
-Macias
-Delgado
-Corto
+Castaño, Me gusta la pizza
+Pelirojo, Mucha pizza
+Macias, no podrias pensar
+Delgado, el cuanto amo la pizza
+Corto, Amen
