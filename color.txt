@@ -3,3 +3,5 @@ Color:
 Joshidito: Rojo
 Macias: Rojo
 Bruno: Tinto
+
+A Joshidito le gusta el rojo
