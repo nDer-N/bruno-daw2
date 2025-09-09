@@ -1,8 +1,9 @@
 Color:
 
-Joshidito: Rojo
-Macias: Rojo
-Bruno: Tinto
+Joshidito: Rojo, Y el corazon
+Macias: Rojo, Tucun tucun
+Bruno: Tinto, y las balas pacaw pacaw
+
 A Joshidito le gusta el rojo
 A Macias le gusta el color rojo
 
